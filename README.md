@@ -43,3 +43,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### 🔥 &nbsp; Mis estadísticas :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElPokaReal&theme=highcontrast&locale=es&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElPokaReal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
