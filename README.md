@@ -46,6 +46,6 @@
 
 ---
 ### 🔥 &nbsp; Mis estadísticas :
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElPokaReal&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElPokaReal&theme=dark&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C502D15)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElPokaReal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
