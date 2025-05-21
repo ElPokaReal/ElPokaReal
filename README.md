@@ -1,51 +1,58 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2toY2cxNzNjN2FobHc3NmFhaXM4Z2dxdGR2em9hZmFlb2pmbGczdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+<!-- Banner / Greeting -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20ElPokaReal%20👾&fontSize=40&fontAlignY=35" alt="banner"/>
 
-<h1>
-  Hola! Soy Samuel 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<div id="badges">
-  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&color=blue" alt="Facebook Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&color=white" alt="Instagram Badge"/>
-</div>
-</h1>
+## 👋 Junior Developer | Code Dreamer
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY0dHAydjdpNHVuamdjc3NpNTc4YTBodDBuY2JhNDBsdnQ3MzM0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif" width="600" height="300"/>
-</div>
-
-</div>
+**Hi, I’m Samuel Aranguren (aka ElPokaReal)!**  
+A passionate junior developer who loves building cool stuff with code and exploring the latest tech. I thrive on creativity and enjoy blending logic with imagination.
 
 ---
 
-### :man_technologist: Conoceme! :
+### 🚀 Tech Stack
 
-🙋‍♂️ Soy un desarrollador Jr de Venezuela. 🇻🇪
-
-- 📙 : Estudié Ing. en Informática y me apasiona el mundo de la programación, actualmente estoy aprendiendo a ser un frontend developer
-
-- ⚡ : En mis tiempos libres suelo leer información y prácticar para mejorar como desarrollador.
-
-- 📫 :Puedes contactarme atraves de : [![Facebook_badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&color=blue)](https://www.facebook.com/samueldavid.aranguren)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,php,flutter,react,express,nextjs,supabase,postgresql,mysql,sqlite,html,css,git,laravel,tailwind&theme=light&perline=6" alt="Tech Stack" />
+</p>
 
 ---
 
-### :hammer_and_wrench: Conocimiento de :
+### 🕑 My Coding Journey
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgre" alt="Postgre" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
-</div>
+- 🚀 **2022**: Started my coding adventure!
+- 💡 **2023**: Built my first full-stack app and discovered React, NodeJS, and databases.
+- 🎉 **2025**: Launched [tca-website-v2](https://github.com/ElPokaReal/tca-website-v2) and began exploring cross-platform dev with React Native & Flutter.
+  
+---
+
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElPokaReal&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ElPokaReal&theme=tokyonight&hide_border=true" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElPokaReal&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
+</p>
 
 ---
-### 🔥 &nbsp; Mis estadísticas :
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElPokaReal&theme=dark&date_format=j%20M%5B%20Y%5D&background=45%2C000000%2C502D15)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElPokaReal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🎲 Did You Know?
+
+- My online handle, **ElPokaReal**, comes from my love of unique, memorable nicknames!
+- I’m always up for a Dota 2 or CS2 match—let’s game!
+- Learning something new every week is my personal challenge.
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samuel-aranguren-4447b31b4)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff)](http://instagram.com/samuaran1502)
+
+---
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ElPokaReal&label=Profile+Visits&color=0e75b6&style=flat"/>
+</p>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
