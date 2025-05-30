@@ -11,7 +11,7 @@ A passionate junior developer who loves building cool stuff with code and explor
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,php,flutter,react,express,nextjs,supabase,postgresql,mysql,sqlite,html,css,git,laravel,tailwind&theme=light&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,php,flutter,express,nextjs,supabase,postgresql,mysql,sqlite,html,css,git,laravel,tailwind&theme=light&perline=6" alt="Tech Stack" />
 </p>
 
 ---
